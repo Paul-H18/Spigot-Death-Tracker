@@ -1,0 +1,4 @@
+name: DeathTracker
+version: '1.0-SNAPSHOT'
+main: de.paul.deathTracker.DeathTracker
+api-version: '1.21'
