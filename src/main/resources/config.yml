@@ -1,0 +1,9 @@
+#Thank you for using my Plugin!
+
+db:
+  hostname: "localhost"
+  port: 3306
+  db: "db"
+  user: "root"
+  password: ""
+  table-name: "deaths"
